@@ -1,3 +1,3 @@
-# hsm-webpage
+# Personal webpage
 
-Personal webpage with my portfolio
+Here is my personal webpage files which showcase my data science portfolio and other things. Webpage is hosted using GitHub pages.
